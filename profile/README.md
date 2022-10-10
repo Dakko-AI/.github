@@ -1,1 +1,4 @@
+
+<img src="https://i.imgur.com/Uq6V7Os.png"></img>
+
 Dakko is the world’s first AI-based machine learning tool designed specifically for finding valuable NFTs. From identifying undervalued PFPs to unearthing NFT collections with inherent value, Dakko processes thousands of data points in seconds to help you make the right decision.
